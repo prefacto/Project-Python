@@ -1,3 +1,4 @@
+#Distance travelled code
 distancetravelled=float(input("Enter distance covered=",))
 totalfare=0
 if distancetravelled>0 and distancetravelled<50:
